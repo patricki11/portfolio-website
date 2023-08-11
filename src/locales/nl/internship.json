@@ -1,0 +1,35 @@
+{
+    "items":
+    [
+        {
+            "start": "apr. 2021",
+            "end": "nov. 2021",
+            "education": "",
+            "title": "C# Software Developer (stagiair)",
+            "location": "Pharmeon",
+            "city": "Amsterdam",
+            "desc": "Werken aan een koppeling tussen de Uw Zorg online mobiele applicatie van Pharmeon en de EPDs van Health Cloud Initiative.",
+            "skills": ["C#", "Azure"]
+        },
+        {
+            "start": "sep. 2018",
+            "end": "feb. 2019",
+            "education": "",
+            "title": "C# Software Developer (stagiair)",
+            "location": "Health Cloud Initiative",
+            "city": "Haarlem",
+            "desc": "Het ontwikkelen van een dashboard waarin praktijk- medewerkers en eigenaren de statistieken van hun praktijk kunnen inzien.",
+            "skills": ["C#", "SQL", "HTML", "CSS"]
+        },
+        {
+            "start": "Nov 2015",
+            "end": "Mar 2016",
+            "education": "",
+            "title": "Java Software Developer (stagiair)",
+            "location": "Eve B.V.",
+            "city": "Haarlem",
+            "desc": "Web scraping van evenementenwebsites met behulp van Java en externe libraries.",
+            "skills": ["Java"]
+        }
+    ]
+}

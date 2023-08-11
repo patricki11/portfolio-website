@@ -1,0 +1,37 @@
+{
+    "navigation": {
+        "home": "Home",
+        "about": "About me",
+        "experience": "Employment & Education",
+        "projects": "Projects",
+        "contact": "Contact",
+        "selectLanguage": "Select Language"
+    },
+    "landing": {
+        "hello": "Hello",
+        "myNameIs": "My name is",
+        "subtitle": "A software developer with a passion for programming and learning.",
+        "contact": "Get in contact!"
+    },
+    "aboutMe": {
+        "sectionHeader": "About Me"
+    },
+    "employmentAndEducation": {
+        "sectionHeader": "Employment & Education",
+        "employment": "Employement",
+        "employmentAt": "at",
+        "internships": "Internships",
+        "internshipAt": "at",
+        "education": "Education",
+        "educationAt": "at",
+        "skills": "Skills:"
+    },
+    "projects": {
+        "sectionHeader": "Projects",
+        "madeWith": "Made with:"
+    },
+    "contact": {
+        "sectionHeader": "Contact",
+        "contactText": "Would you like to get in contact for any questions?\nMy email is down below!"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "navigation": {
+        "home": "Home",
+        "about": "Over mij",
+        "experience": "Werkervaring & Opleidingen",
+        "projects": "Projecten",
+        "contact": "Contact",
+        "selectLanguage": "Kies taal"
+    },
+    "landing": {
+        "hello": "Hallo",
+        "myNameIs": "Mijn naam is",
+        "subtitle": "Een software ontwikkelaar met passie voor programmeren en leren!",
+        "contact": "Neem contact op!"
+    },
+    "aboutMe": {
+        "sectionHeader": "Over Mij"
+    },
+    "employmentAndEducation": {
+        "sectionHeader": "Werkervaring & Opleidingen",
+        "employment": "Werk",
+        "employmentAt": "bij",
+        "internships": "Stages",
+        "internshipAt": "bij",
+        "education": "Opleidingen",
+        "educationAt": "aan",
+        "skills": "Vaardigheden:"
+    },
+    "projects": {
+        "sectionHeader": "Projecten",
+        "madeWith": "Gemaakt met:"
+    },
+    "contact": {
+        "sectionHeader": "Contact",
+        "contactText": "Wilt u contact opnemen?\nMijn email staat hier beneden!"
+    }
+}

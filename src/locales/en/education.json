@@ -1,0 +1,31 @@
+{
+    "items":
+    [
+        {
+            "start": "aug. 2016",
+            "end": "dec. 2021",
+            "education": "Information Technology (Bachelor)",
+            "title": "Student",
+            "location": "InHolland, University of Applied Sciences",
+            "city": "Haarlem",
+            "desc": "Course where the following subjects have been taught:\n- Web Development (HTML5, CSS, PHP, JSON, Javascript, AJAX)\n- Programming (C#, Java)\n- Datamodelling and Databases (UML, SQL, MySQL, DBMS)\n- Application- and System Development (Object Oriented Programming, Design Patterns)\n- Application Management (ITIL, ASL)\n\nMinors and Majors:\nGame Development or User Experience Design and Big Data\nMobile Development or Cloud and Security\n\nChosen Minors:\nMinor: User Experience Design\nMajor: Mobile Development"        },
+        {
+            "start": "aug. 2014",
+            "end": "dec. 2016",
+            "education": "MBO 4 application- and media developer",
+            "title": "Student",
+            "location": "Nova college",
+            "city": "Haarlem",
+            "desc": "Completed the course in 1.5 years instead of 3 years."
+        },
+        {
+            "start": "aug. 2010",
+            "end": "jul. 2014",
+            "education": "Middle school",
+            "title": "Student",
+            "location": "Haemstede-Barger",
+            "city": "Heemstede",
+            "desc": "Sectors: Technology, Agriculture, Economics\n\nCommon Subjects:\n- Dutch\n- English\n- Sociology\n- Physical Education\n- Arithmetic\n\nSector Related Subjects:\n- Math\n- Physics\n- Chemistry\n\nOptional Subjects:\n- German\n- Economics"
+        }
+    ]
+}

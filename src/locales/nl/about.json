@@ -1,0 +1,20 @@
+{
+    "items":
+    [
+        {
+            "title": "coderen",
+            "icon": "code-slash",
+            "description": "Als ontwikkelaar met een veelzijdige vaardighedenset ben ik in staat zowel frontend- als backend-ontwikkeling te doen. Echter, terwijl ik aan beide werkte, ontdekte ik dat mijn ware passie ligt bij backend-ontwikkeling."
+        },
+        {
+            "title": "creativiteit",
+            "icon": "lightbulb",
+            "description": "Hoewel ik mezelf niet als extreem creatief beschouw, vind ik voldoening in het aanpakken van uitdagende problemen en deze oplossen met effectieve oplossingen."
+        },
+        {
+            "title": "hobby's",
+            "icon": "controller",
+            "description": "Naast programmeren heb ik een paar andere activiteiten die ik graag in mijn vrije tijd doe.\n\n🎳 Bowlen 🎳\nBowlen is een van de dingen die ik al meer dan 10 jaar doe. Ik zal niet zeggen dat ik er de beste in ben, maar ik vind het echt leuk om te doen.\n\n🎮 Gamen 🎮\nNaast bowlen geniet ik ook van gamen met vrienden."
+        }
+    ]
+}

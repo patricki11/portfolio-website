@@ -1,0 +1,20 @@
+{
+    "items": [
+        {
+            "title": "Portfolio website",
+            "description": "A portfolio build mainly in VueJS with bootstrap for the layout and styling parts. \nThe website was made to showcase my (future) work and who I am aside from other sources like LinkedIn.",
+            "projectUrls": [ 
+                {
+                    "icon": "display",
+                    "url": "https://patrickdammers.dev"
+                },
+                {
+                    "icon": "github",
+                    "url": "https://github.com/patricki11/portfolio-website"
+                }
+            ],
+            "languages": ["HTML", "CSS"],
+            "frameworks": ["VueJS", "Bootstrap"]
+        }
+    ]
+}

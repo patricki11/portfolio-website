@@ -1,0 +1,35 @@
+{
+    "items":
+    [
+        {
+            "start": "apr. 2021",
+            "end": "nov. 2021",
+            "education": "",
+            "title": "C# Software Developer (intern)",
+            "location": "Pharmeon",
+            "city": "Amsterdam",
+            "desc": "Developing and implementing a link between the electronic health record managed by Health Cloud Initiative and the 'Uw Zorg online' application of Pharmeon.",
+            "skills": ["C#", "Azure"]
+        },
+        {
+            "start": "sep. 2018",
+            "end": "feb. 2019",
+            "education": "",
+            "title": "C# Software Developer (intern)",
+            "location": "Health Cloud Initiative",
+            "city": "Haarlem",
+            "desc": "Developed a dashboard in which care practitioners can see statistics of their practice.",
+            "skills": ["C#", "SQL", "HTML", "CSS"]
+        },
+        {
+            "start": "Nov 2015",
+            "end": "Mar 2016",
+            "education": "",
+            "title": "Java Software Developer (intern)",
+            "location": "Eve B.V.",
+            "city": "Haarlem",
+            "desc": "Develop and maintain programs to scrape data from event websites using Java and external libraries.",
+            "skills": ["Java"]
+        }
+    ]
+}

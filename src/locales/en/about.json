@@ -1,0 +1,20 @@
+{
+    "items":
+    [
+        {
+            "title": "coding",
+            "icon": "code-slash",
+            "description": "As a developer with a well-rounded skill set, I can do both frontend and backend development. But as I worked on both I discovered my true passion lies in backend development."
+        },
+        {
+            "title": "creativity",
+            "icon": "lightbulb",
+            "description": "While I don't concider myself extremely creative, I find joy in tackling challenging problems and resolving them with effective solutions."
+        },
+        {
+            "title": "hobbies",
+            "icon": "controller",
+            "description": "Besides programming, I have a few other activities I enjoy during my free time.\n\n🎳 Bowling 🎳\nBowling has been a hobby of mine for over 10 years. While I won't claim to be the best at it, I genuinely enjoy the experience.\n\n🎮 Gaming 🎮\nIn addition to bowling, I also relish gaming sessions with friends."
+        }
+    ]
+}

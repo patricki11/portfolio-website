@@ -1,0 +1,21 @@
+{
+    "items": [
+        {
+            "title": "Portfolio website",
+            "description": "Een portfolio website gemaakt in VueJS om mijn (toekomstige) projecten weer te geven.",
+            "projectUrls": [ 
+                {
+                    "icon": "display",
+                    "url": "https://patrickdammers.dev"
+                },
+                {
+                    "icon": "github",
+                    "url": "https://github.com/patricki11/portfolio-website"
+                }
+            ],
+            "languages": ["HTML", "CSS"],
+            "frameworks": ["VueJS", "Bootstrap"],
+            "status": "Lopend"
+        }
+    ]
+}

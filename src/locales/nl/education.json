@@ -1,0 +1,32 @@
+{
+    "items":
+    [
+        {
+            "start": "aug. 2016",
+            "end": "dec. 2021",
+            "education": "Informatica (Bachelor)",
+            "title": "Student",
+            "location": "de Hogeschool InHolland, University of Applied Sciences",
+            "city": "Haarlem",
+            "desc": "Opleiding waarin de volgende vakgebieden aan bod komen:\n- Webdevelopment (o.a. HTML5, CSS3, PHP, JSON, JavaScript, AJAX)\n- Programmeren (o.a. C#, Java)\n- Datamodelleren en Databases (UML, SQL, MySQL, DBMS)\n- Applicatiebouw en Systeemontwikkeling (o.a. Webprogrammeren, Object Oriëntatie, Design Patterns)\n- Beheer (o.a. ITIL, ASL)\n\nAangeboden Minors\n- Game engineering of User Experience Design & Big Data\n- Mobile Development of Cloud & security\n\nGekozen Minoren:\nMinor 1: User Experience Design & Big Data\nMinor 2: Mobile Development"       
+        },
+        {
+            "start": "aug. 2014",
+            "end": "dec. 2016",
+            "education": "MBO 4 application- and media developer",
+            "title": "Student",
+            "location": "het Nova college",
+            "city": "Haarlem",
+            "desc": "Opleiding versneld afgerond (binnen anderhalf jaar in plaats van 3 jaar)."
+        },
+        {
+            "start": "aug. 2010",
+            "end": "jul. 2014",
+            "education": "VMBO-T",
+            "title": "Leerling",
+            "location": "het Haemstede-Barger",
+            "city": "Heemstede",
+            "desc": "Sectoren: Techniek, Landbouw, Economie\n\n★ Gegeven Vakken ★\nGemeenschappelijke Vakken:\n- Nederlands\n- Engels\n- Maatschappijleer\n- Lichamelijke Opvoeding\n- Rekenen\n\nSectorgerelateerde Vakken:\n- Wiskunde\n- Natuur- en Scheikunde\n\nVrije keuze Vakken:\n- Duits\n- Economie"
+        }
+    ]
+}

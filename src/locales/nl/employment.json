@@ -1,0 +1,35 @@
+{
+    "items": 
+    [
+        {
+            "start": "feb. 2023",
+            "end": "Heden",
+            "title": "Junior Software Developer",
+            "jobtype": "Fulltime",
+            "location": "Health Cloud Initiative",
+            "city": "Haarlem",
+            "desc": "Meehelpen aan het opzetten van de webbased versie van de Fysioroadmap applicatie.",
+            "skills": ["C#", "SQL", "CI/CD"]
+        },
+        {
+            "start": "jan. 2022",
+            "end": "feb. 2023",
+            "title": "Junior Software Developer",
+            "jobtype": "Fulltime",
+            "location": "Health Cloud Initiative",
+            "city": "Haarlem",
+            "desc": "Meehelpen aan het ontwikkelen van de Incura applicatie.",
+            "skills": ["C#", "SQL", "Azure", "CI/CD"]
+        },
+        {
+            "start": "feb. 2019",
+            "end": "dec. 2021",
+            "title": "Junior Software Developer",
+            "jobtype": "Parttime (2 dagen/week)",
+            "location": "Health Cloud Initiative",
+            "city": "Haarlem",
+            "desc": "Meehelpen aan het ontwikkelen van de Incura applicatie.",
+            "skills": ["C#", "SQL", "Azure"]
+        }
+    ]
+}

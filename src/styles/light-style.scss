@@ -1,0 +1,66 @@
+$enable-responsive-font-sizes: true;
+
+$primary-color-bg: #D3D3D3;
+$secundaire-color-bg: #FAF9F6;
+
+$red-hightlight: #FF3B3B;
+$green-highlight: #15C196;
+$blue-highlight: #3D7BFA;
+$yellow-highlight: #FFCC00;
+$teal-highlight: #74E0E6;
+$purple-highlight: #AC5CD9;
+$grey-highlight: #9090A7;
+
+#app, body {
+    background-color: #e5e5f7;
+    background-image: radial-gradient(#{$purple-highlight} 0.5px, transparent 0.5px), radial-gradient(#{$purple-highlight} 0.5px, rgba(229, 229, 247, 0.8) 0.5px);
+    background-size: 20px 20px;
+}
+
+.dotted-background {
+    background-image: radial-gradient(rgba(68, 76, 247, 0.8) 0.5px, transparent 0.5px), radial-gradient(rgba(68, 76, 247, 0.8) 0.5px, rgba(229, 229, 247, 0.8) 0.5px);
+    background-size: 20px 20px;
+    background-position: 0 0,10px 10px;
+}
+
+.section-header {
+    border-color:#111;
+}
+
+.icon-color {
+    color:black !important;
+}
+
+pre {
+    white-space: pre-wrap;       /* Since CSS 2.1 */
+    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+    white-space: -pre-wrap;      /* Opera 4-6 */
+    white-space: -o-pre-wrap;    /* Opera 7 */
+    word-wrap: break-word;       /* Internet Explorer 5.5+ */
+
+    font-family: inherit;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-black {
+    color: black;
+}
+
+.fit-content {
+    width: fit-content;
+}
+
+.background-purple {
+    background: rgba($purple-highlight, 0.5) !important;
+}
+
+.border-purple {
+    border-color: $purple-highlight !important;
+}
+
+.fs-7 {
+    font-size: 0.875rem !important;
+}
