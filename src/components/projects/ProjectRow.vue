@@ -1,7 +1,6 @@
 <template>
 
-    <div 
-    class="row project-row g-4 pb-4 py-4 row-cols-1 mx-auto align-self-end rounded shadow">
+    <div ref="projectComponent" class="row project-row g-4 pb-4 py-4 row-cols-1 mx-auto align-self-end rounded shadow">
         <span class="fs-6 fw-bold fst-italic mt-0"><i>{{ title }} </i></span>
         <pre class="fs-7 mt-2 lh-sm overflow-visible">{{ description }}</pre>
 
@@ -35,9 +34,27 @@ export default {
         frameworks: Array,
         status: String
     },
-    data() {
-        return {}
-    }
+    mounted() {
+        this.observeElement();
+    },
+    methods: {
+        observeElement() {
+            const projectComponent = this.$refs.projectComponent;
+
+            const observer = new IntersectionObserver(
+                (entries) => {
+                    const inView = entries[0].isIntersecting;
+
+                    if(inView) {
+                        projectComponent.classList.add('animate-in-view');
+                    }
+                },
+                { threshold: 0.1 }
+            );
+
+            observer.observe(projectComponent);
+        },
+    },
 }
 
 </script>
@@ -56,6 +73,27 @@ export default {
 
 .icon-link {
     width:fit-content;
+}
+
+.animate-on-scroll {
+    opacity: 0; /* Start with opacity 0 if you want a fade-in effect */
+}
+  
+.animate-in-view {
+    animation: slideInFromRight 1s ease-out forwards;
+    opacity: 1; /* Optional: Set opacity to 1 to fade in when in view */
+}
+  
+@keyframes slideInFromRight {
+    from {
+        transform: translateX(100%); /* Start offscreen to the right */
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0); /* Move to the original position on screen */
+        opacity: 1;
+        animation-timing-function: ease-out; /* Slow down at the end */
+    }
 }
 
 </style>
